@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ninabaltazar/Documents/Projects__/compiladoreP-",
+      "program": "/Users/ninabaltazar/Documents/Projects__/compiladoreP-/build/Debug/outDebug"
+    }
+  ]
+}
