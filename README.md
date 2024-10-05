@@ -21,3 +21,8 @@
 `Operadores`: ^[+\-*/=<>!]+
 
 `Delimitadores`: ^[,;{}()]
+
+
+### Comandos para testar o programa:
+- gcc main.c lexer.c -o lexical_analyzer
+- .\lexical_analyzer.exe
