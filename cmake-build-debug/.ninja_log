@@ -1,0 +1,5 @@
+# ninja log v6
+8	415	7497674448071399	CMakeFiles/analisadorLexico.dir/main.c.obj	52f61edd398fde43
+451	961	7497674452494199	analisadorLexico.exe	346631799084da0
+21	936	7497944541627827	build.ninja	3d8ec4d293a29b20
+47	451	7497674448462238	CMakeFiles/analisadorLexico.dir/lexer.c.obj	440e943f15a6d96d
